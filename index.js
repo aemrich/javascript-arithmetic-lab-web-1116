@@ -29,3 +29,5 @@ function makeInt(number) {
 function preserveDecimal(number) {
   return parseFloat(number)
 }
+
+/* added for git */
